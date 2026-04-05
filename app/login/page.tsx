@@ -18,7 +18,8 @@ export default function AuthPage() {
   const easypaisaNumber = "03XX-XXXXXXX"; 
   const easypaisaName = "Hazrat Umar";
   const adminWhatsApp = "923XXXXXXXXX";
-  const IMGBB_API_KEY = "YAHAN_APNI_IMGBB_KEY_PASTE_KAREIN";
+  const IMGBB_API_KEY = "bddbc795eeba935596e6be94391ffaef"; 
+  
 
   const handleSubmit = async (e: any) => {
     e.preventDefault();
