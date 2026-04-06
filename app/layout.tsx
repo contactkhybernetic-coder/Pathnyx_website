@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 // Is hisse ko dhoondein aur replace kar dein
 export const metadata: Metadata = {
-  title: "Pathnyx | Launch Your Store in 60 Seconds", // 👈 Yahan apna title likhein
+  title: "PATHNYX", // 👈 Yahan apna title likhein
   description: "Pakistan's #1 E-commerce Builder for Local Businesses",
   icons: {
     icon: "/favicon.ico", // 👈 Agar public folder mein favicon.ico hai toh ye sahi hai
